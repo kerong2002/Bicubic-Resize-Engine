@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\image_processing\1024\test\hw1_2\hw1_2\x64\Release\hw1_2.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\image_processing\1024\test\hw1_2\hw1_2\x64\Release\hw12.MyForm.resources
+C:\Users\User\Desktop\image_processing\1024\test\hw1_2\hw1_2\x64\Release\hw1_2.vcxproj.GenerateResource.cache
+C:\Users\krame\Desktop\image_processing\1024-hw\test\hw1_2\hw1_2\x64\Release\hw1_2.vcxproj.AssemblyReference.cache
+C:\Users\krame\Desktop\image_processing\1024-hw\test\hw1_2\hw1_2\x64\Release\hw12.MyForm.resources
+C:\Users\krame\Desktop\image_processing\1024-hw\test\hw1_2\hw1_2\x64\Release\hw1_2.vcxproj.GenerateResource.cache
+C:\Users\krame\Desktop\hw1_2\hw1_2\x64\Release\hw1_2.vcxproj.AssemblyReference.cache
+C:\Users\krame\Desktop\hw1_2\hw1_2\x64\Release\hw12.MyForm.resources
+C:\Users\krame\Desktop\hw1_2\hw1_2\x64\Release\hw1_2.vcxproj.GenerateResource.cache
+C:\Users\krame\Desktop\bicubic\hw1_2\x64\Release\hw1_2.vcxproj.AssemblyReference.cache
+C:\Users\krame\Desktop\bicubic\hw1_2\x64\Release\hw12.MyForm.resources
+C:\Users\krame\Desktop\bicubic\hw1_2\x64\Release\hw1_2.vcxproj.GenerateResource.cache

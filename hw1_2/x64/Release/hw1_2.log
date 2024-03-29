@@ -1,0 +1,48 @@
+﻿  MyForm.cpp
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(307,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(308,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(309,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(310,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(311,63): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(341,17): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(342,17): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(343,17): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(344,17): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(345,75): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(357,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(358,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(359,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(360,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\krame\Desktop\bicubic\hw1_2\MyForm.h(361,63): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+  MyForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  hw1_2.vcxproj -> C:\Users\krame\Desktop\bicubic\x64\Release\hw1_2.exe
