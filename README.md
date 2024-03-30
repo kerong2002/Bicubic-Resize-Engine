@@ -1,11 +1,11 @@
 # Bicubic-Resize-Engine
 ![Bicubic](https://github.com/kerong2002/Bicubic-Resize-Engine/blob/main/test.png)
 
-$$\Large p(x) = ax^3 + bx^2 + cx =d$$
+$\Large p(x) = ax^3 + bx^2 + cx =d$
 
-$$\Large p(0) = d$$
+$\Large p(0) = d$
 
-$$\Large p(1) = a + b + c + d$$
+$\Large p(1) = a + b + c + d$
 
 $$\Large p'(x) = 3ax^2 + 2bx + c$$
 
