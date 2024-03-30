@@ -1,6 +1,7 @@
 # Bicubic-Resize-Engine
 ![Bicubic](https://github.com/kerong2002/Bicubic-Resize-Engine/blob/main/test.png)
 
+$$
 p(x) = ax^3 + bx^2 + cx =d\\
 p(0) = d\\
 p(1) = a + b + c + d\\
@@ -15,6 +16,7 @@ c &= \frac{1}{2}p(1)-\frac{1}{2}p[-1] \\
 d &= p(0)
 \end{align*}
 \end{matrix}\right.
+$$
 
 ![Bicubic x2](https://github.com/kerong2002/Bicubic-Resize-Engine/raw/main/bicubic_x2.PNG)
 
