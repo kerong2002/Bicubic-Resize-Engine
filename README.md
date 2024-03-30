@@ -2,7 +2,7 @@
 ![Bicubic](https://github.com/kerong2002/Bicubic-Resize-Engine/blob/main/test.png)
 
 
-```latex
+```math
 p(x) = ax^3 + bx^2 + cx = d \\
 p(0) = d \\
 p(1) = a + b + c + d \\
