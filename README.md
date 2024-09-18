@@ -17,13 +17,14 @@ $$\Large
 \left \{
 \begin{matrix}
 \begin{align*}
-a &= \frac{3p(0)+p(2)-3p(1)-p(-1))}{2}\\
+a &= \frac{3p(0)+p(2)-3p(1)-p(-1)}{2}\\
 b &= p(-1) + 2p(1) - \left(\frac{5p(0)+p(2)}{2}\right)\\
-c &= \frac{1}{2}p(1)-\frac{1}{2}p[-1] \\
+c &= \frac{1}{2}p(1)-\frac{1}{2}p(-1) \\
 d &= p(0)
 \end{align*}
 \end{matrix}
 \right.
+
 $$
 
 
