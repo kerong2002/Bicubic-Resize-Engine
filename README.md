@@ -23,9 +23,7 @@ c &= \frac{1}{2}p(1)-\frac{1}{2}p(-1) \\
 d &= p(0)
 \end{align*}
 \end{matrix}
-\right.
-
-$$
+\right.$$
 
 
 
