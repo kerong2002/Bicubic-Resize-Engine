@@ -14,7 +14,7 @@ $$\Large p'(0) = c = \frac{p(1) - p(-1)}{2}$$
 $$\Large p'(1) = 3a + 2b +c = \frac{p(2) - p(0)}{2}$$
 
 $$\Large
-\left\{
+\left \{
 \begin{matrix}
 \begin{align*}
 a &= \frac{3p(0)+p(2)-3p(1)-p(-1))}{2}\\
